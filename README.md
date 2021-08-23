@@ -1,5 +1,5 @@
 <div align="center">
-# birthday_app
+ <h1>birthday_app</h1>
 This is the first app built for the Kode Camp series (Android) 
 
 
